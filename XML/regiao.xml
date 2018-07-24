@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ROWSET>
+ <ROW>
+  <ID_REGIAO>1</ID_REGIAO>
+  <NOME>Nordeste</NOME>
+ </ROW>
+ <ROW>
+  <ID_REGIAO>2</ID_REGIAO>
+  <NOME>Sul</NOME>
+ </ROW>
+ <ROW>
+  <ID_REGIAO>3</ID_REGIAO>
+  <NOME>Norte</NOME>
+ </ROW>
+ <ROW>
+  <ID_REGIAO>4</ID_REGIAO>
+  <NOME>Sudeste </NOME>
+ </ROW>
+</ROWSET>

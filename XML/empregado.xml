@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<ROWSET>
+ <ROW>
+  <MATRICULA>222</MATRICULA>
+  <NOME>Pedro  Silva                                      </NOME>
+  <FUNCAO>empacotador    </FUNCAO>
+  <DT_NASCIMENTO>1999-02-02T00:00:00.000</DT_NASCIMENTO>
+  <SALARIO>250.00</SALARIO>
+  <SUPERVISOR>123</SUPERVISOR>
+ </ROW>
+ <ROW>
+  <MATRICULA>30</MATRICULA>
+  <NOME>Fabiana                                           </NOME>
+  <FUNCAO>Vigia          </FUNCAO>
+  <DT_NASCIMENTO>1995-10-10T00:00:00.000</DT_NASCIMENTO>
+  <SALARIO>800.00</SALARIO>
+ </ROW>
+ <ROW>
+  <MATRICULA>12</MATRICULA>
+  <NOME>Carlos Lima                                       </NOME>
+  <FUNCAO>Empacotador    </FUNCAO>
+  <DT_NASCIMENTO>1999-11-12T00:00:00.000</DT_NASCIMENTO>
+  <SALARIO>150.00</SALARIO>
+  <SUPERVISOR>22</SUPERVISOR>
+ </ROW>
+ <ROW>
+  <MATRICULA>123</MATRICULA>
+  <NOME>Antonio                                           </NOME>
+  <FUNCAO>Carregador     </FUNCAO>
+  <SALARIO>1000.00</SALARIO>
+ </ROW>
+ <ROW>
+  <MATRICULA>171</MATRICULA>
+  <NOME>Joao                                              </NOME>
+  <FUNCAO>Carregador     </FUNCAO>
+  <SALARIO>1000.00</SALARIO>
+  <SUPERVISOR>123</SUPERVISOR>
+ </ROW>
+ <ROW>
+  <MATRICULA>22</MATRICULA>
+  <NOME>Manoel                                            </NOME>
+  <SALARIO>2000.00</SALARIO>
+ </ROW>
+</ROWSET>

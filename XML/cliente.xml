@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<ROWSET>
+ <ROW>
+  <END_PAIS>Brasil              </END_PAIS>
+  <EMAIL>beicola@gmail.com                                 </EMAIL>
+  <ID_CLIENTE>13</ID_CLIENTE>
+  <CPF>12345678903</CPF>
+  <NOME>Filipe         </NOME>
+  <SOBRENOME>Pires</SOBRENOME>
+  <SEXO>M</SEXO>
+  <END_NUM>171  </END_NUM>
+  <END_CIDADE>Campina Grande      </END_CIDADE>
+ </ROW>
+ <ROW>
+  <END_PAIS>Brasil              </END_PAIS>
+  <EMAIL>fl@gmail.com                                      </EMAIL>
+  <ID_CLIENTE>7</ID_CLIENTE>
+  <CPF>12345678909</CPF>
+  <NOME>Fernando       </NOME>
+  <SOBRENOME>Lima</SOBRENOME>
+  <DT_NASCIMENTO>1991-01-01T00:00:00.000</DT_NASCIMENTO>
+  <SEXO>M</SEXO>
+  <END_NUM>54   </END_NUM>
+  <END_ESTADO>PE</END_ESTADO>
+ </ROW>
+ <ROW>
+  <END_PAIS>Colombia            </END_PAIS>
+  <EMAIL>pablo_escobar@gmail.com                           </EMAIL>
+  <ID_CLIENTE>1</ID_CLIENTE>
+  <CPF>12345678901</CPF>
+  <NOME>Pablo          </NOME>
+  <SOBRENOME>Escobar</SOBRENOME>
+  <SEXO>M</SEXO>
+  <END_NUM>404  </END_NUM>
+  <END_CIDADE>Medellin            </END_CIDADE>
+  <END_BAIRRO>Palmas         </END_BAIRRO>
+ </ROW>
+ <ROW>
+  <EMAIL>lisa@simpsons.com                                 </EMAIL>
+  <ID_CLIENTE>11</ID_CLIENTE>
+  <NOME>Lisa           </NOME>
+  <SOBRENOME>Simpson</SOBRENOME>
+  <SEXO>F</SEXO>
+  <END_CIDADE>California          </END_CIDADE>
+ </ROW>
+ <ROW>
+  <END_PAIS>Brasil              </END_PAIS>
+  <EMAIL>fernandinho_beiramar@gmail.com                    </EMAIL>
+  <ID_CLIENTE>2</ID_CLIENTE>
+  <CPF>12345678902</CPF>
+  <NOME>Luiz Fernando  </NOME>
+  <SOBRENOME> da Costa</SOBRENOME>
+  <SEXO>M</SEXO>
+  <END_NUM>33   </END_NUM>
+  <END_CIDADE>Rio de Janeiro      </END_CIDADE>
+  <END_BAIRRO>Rocinha        </END_BAIRRO>
+ </ROW>
+ <ROW>
+  <END_PAIS>Brasil              </END_PAIS>
+  <EMAIL>mariaf@blabla.com                                 </EMAIL>
+  <ID_CLIENTE>5</ID_CLIENTE>
+  <CPF>12345678905</CPF>
+  <NOME>Maria Jose     </NOME>
+  <SOBRENOME> Fernandes Silva</SOBRENOME>
+  <SEXO>F</SEXO>
+  <END_RUA>Sem nome dos 13               </END_RUA>
+  <END_NUM>548  </END_NUM>
+  <END_CIDADE>Salvador            </END_CIDADE>
+  <END_ESTADO>BA</END_ESTADO>
+ </ROW>
+ <ROW>
+  <END_PAIS>Brasil              </END_PAIS>
+  <EMAIL>clauclau@gmail.com                                </EMAIL>
+  <ID_CLIENTE>4</ID_CLIENTE>
+  <CPF> 1234567822</CPF>
+  <NOME>Claudia        </NOME>
+  <SOBRENOME>Souza Santos</SOBRENOME>
+  <SEXO>F</SEXO>
+  <END_NUM>15   </END_NUM>
+  <END_CIDADE>Alagoinha           </END_CIDADE>
+  <END_ESTADO>PB</END_ESTADO>
+ </ROW>
+</ROWSET>

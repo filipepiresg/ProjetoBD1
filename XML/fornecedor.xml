@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<ROWSET>
+ <ROW>
+  <ID_FORN>1</ID_FORN>
+  <NOME>Rapidez</NOME>
+  <EMAIL>rapidez@gmail.com</EMAIL>
+  <ENDERECO>av. Joao Grandao                                  </ENDERECO>
+ </ROW>
+ <ROW>
+  <ID_FORN>3</ID_FORN>
+  <NOME>Flash</NOME>
+  <EMAIL>Flash@gmail.com</EMAIL>
+ </ROW>
+ <ROW>
+  <ID_FORN>4</ID_FORN>
+  <NOME>Docampo</NOME>
+  <EMAIL>docampo@gmail.com</EMAIL>
+ </ROW>
+ <ROW>
+  <ID_FORN>6</ID_FORN>
+  <NOME>Braz</NOME>
+  <EMAIL>Braz@gmail.com</EMAIL>
+ </ROW>
+ <ROW>
+  <ID_FORN>5</ID_FORN>
+  <NOME>start</NOME>
+  <EMAIL> startemal@gmail.com</EMAIL>
+ </ROW>
+</ROWSET>

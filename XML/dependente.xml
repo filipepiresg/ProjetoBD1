@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<ROWSET>
+ <ROW>
+  <ID_DEP>2</ID_DEP>
+  <ID_CLIENTE>13</ID_CLIENTE>
+  <NOME>Pedro Silva dos Santos                            </NOME>
+  <SEXO>M </SEXO>
+  <DT_NASC>2005-06-25T00:00:00.000</DT_NASC>
+ </ROW>
+ <ROW>
+  <ID_DEP>4</ID_DEP>
+  <ID_CLIENTE>2</ID_CLIENTE>
+  <NOME>Maria Candida Pereira                             </NOME>
+  <SEXO>F </SEXO>
+  <DT_NASC>1990-12-02T00:00:00.000</DT_NASC>
+ </ROW>
+ <ROW>
+  <ID_DEP>6</ID_DEP>
+  <ID_CLIENTE>1</ID_CLIENTE>
+  <NOME>Paulo Silva                                       </NOME>
+  <SEXO>M </SEXO>
+  <DT_NASC>2005-05-05T00:00:00.000</DT_NASC>
+ </ROW>
+ <ROW>
+  <ID_DEP>11</ID_DEP>
+  <ID_CLIENTE>5</ID_CLIENTE>
+  <NOME>Fabrício  da Silva                               </NOME>
+  <SEXO>M </SEXO>
+  <DT_NASC>1999-03-12T00:00:00.000</DT_NASC>
+ </ROW>
+ <ROW>
+  <ID_DEP>22</ID_DEP>
+  <ID_CLIENTE>5</ID_CLIENTE>
+  <NOME>Mauricio Manieri                                  </NOME>
+  <SEXO>M </SEXO>
+  <DT_NASC>1960-11-08T00:00:00.000</DT_NASC>
+ </ROW>
+</ROWSET>

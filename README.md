@@ -1,4 +1,4 @@
-------# **Projeto BD1**
+# **Projeto BD1**
 ## Sistema para gerenciamento de uma loja
 - **bin** > *Arquivos criados para moldar o projeto*
 - **imgs** > *Arquivos gerados depois de moldar o projeto*
